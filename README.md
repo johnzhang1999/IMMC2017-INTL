@@ -2,7 +2,7 @@
 ![IMMC](https://raw.githubusercontent.com/johnzhang1999/IMMC2017-International/master/GUI/IMMC.jpg)
 ## Introduction
 This is a team repository for IMMC17427643 (control number). 
-The project solves a jet-leg related problem and the final paper was submitted to International Mathematical Modeling Challenge 2017.
+The project solves a jet-lag related problem and the final paper was submitted to International Mathematical Modeling Challenge 2017.
 
 IMMC International Website: http://immchallenge.org/   
 IMMC Mainland, HK, MC, TW Website: http://immchallenge.org.hk/
