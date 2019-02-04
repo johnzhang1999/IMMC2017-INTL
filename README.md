@@ -12,10 +12,10 @@ Submitted Paper (Chinese): https://github.com/johnzhang1999/IMMC2017-Internation
 English Abstract: https://github.com/johnzhang1999/IMMC2017-INTL/blob/master/pdfs/EN%20Research%20Abstract.pdf   
 
 ## Members
-Jessica Wang Jiahe,
-John Zhang Tianyu,
-Mary Qinyuhong,
-Richard Min Rui
+Jessica Wang Jiahe (UCLA '22)   
+John Zhang Tianyu (CMU '22)   
+Mary Qinyuhong (Penn '22)   
+Richard Min Rui (Colby '22)   
 @ Beijing National Day School
 
 ## Award
