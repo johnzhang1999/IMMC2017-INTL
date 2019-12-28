@@ -15,7 +15,7 @@ English Abstract: https://github.com/johnzhang1999/IMMC2017-INTL/blob/master/pdf
 Jessica Wang Jiahe (UCLA '22)   
 John Zhang Tianyu (CMU '22)   
 Mary Qinyuhong (Penn '22)   
-Richard Min Rui (Colby '22)   
+Richard Min Rui (Georgetown '22)   
 @ Beijing National Day School
 
 ## Award
