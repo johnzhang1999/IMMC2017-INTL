@@ -7,8 +7,8 @@ The project solves a jet-lag related problem and the final paper was submitted t
 IMMC International Website: http://immchallenge.org/   
 IMMC Mainland, HK, MC, TW Website: http://immchallenge.org.hk/
 
-Contest Question: https://github.com/johnzhang1999/IMMC2017-International/blob/master/IMMC2017%20International%20Contest%20questions.pdf?raw=true   
-Submitted Paper (Chinese): https://github.com/johnzhang1999/IMMC2017-International/blob/master/IMMC17427643%20Paper.pdf?raw=true   
+Contest Question: https://github.com/johnzhang1999/IMMC2017-INTL/blob/master/pdfs/IMMC2017%20International%20Contest%20questions.pdf   
+Submitted Paper (Chinese): https://github.com/johnzhang1999/IMMC2017-INTL/blob/master/pdfs/IMMC17427643%20Paper.pdf   
 English Abstract: https://github.com/johnzhang1999/IMMC2017-INTL/blob/master/pdfs/EN%20Research%20Abstract.pdf   
 
 ## Members
